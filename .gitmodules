@@ -1,0 +1,6 @@
+[submodule "todo-list-app"]
+	path = todo-list-app
+	url = https://github.com/Shiv2116/todo-list-dapp.git
+[submodule "todo-list-dapp"]
+	path = todo-list-dapp
+	url = https://github.com/Shiv2116/todo-list-dapp.git
